@@ -1,0 +1,7 @@
+{
+  "name": "where-is-my-stop-tamil-nadu",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {"dev": "python3 -m http.server 4173 --directory dist", "test": "node --test --test-isolation=none tests/*.test.mjs"}
+}
